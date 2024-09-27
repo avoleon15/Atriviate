@@ -1,0 +1,30 @@
+h2 {
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+}
+
+.background-cover{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 400px;
+    opacity: 0.8;
+}
+
+.foto1{
+    background-image: url('./assets/Foto_Grupal_Caminando.jpeg');
+}
+
+.foto2{
+    background-image: url('./assets/Foto_Grupal_DeFrente.jpg');
+}
+
+.foto3{
+    background-image: url('./assets/Foto_Atriviate1.jpeg');
+}
